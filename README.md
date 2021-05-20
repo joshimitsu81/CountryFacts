@@ -1,8 +1,8 @@
 # CountryFacts
-Find out various information about countries of the world from a JSON endpoint, present it in cleartext via a local endpoint.
-To run: java -jar countryfactsAPI.jar <port>
-  Example: java -jar countryfactsAPI.jar <5099>
-  This opens a mini server on port 5099.
+- Find out various information about countries of the world from a JSON endpoint, present it in cleartext via a local endpoint.
+- To run: java -jar countryfactsAPI.jar <port>
+  - Example: java -jar countryfactsAPI.jar <5099>
+  - This opens a mini server on port 5099.
   
   Available endpoints:
   - http://localhost:<port>/callingcode/<countryname>
